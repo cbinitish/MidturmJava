@@ -1,13 +1,4 @@
 package string.problems;
-
-import java.util.HashMap;
-import java.util.Map;    /*
-         Implement to Find the length and longest word in the given sentence below.
-         Should return "10 biological".
-         */
-//String str = "Human brain is a biological learning machine";
-
-
 public class DetermineLargestWord {
     static int LongestWordLength(String str)
     {
